@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <books>
+        <book>one</book>
+        <book>two</book>
+        <book>three</book>
+    </books>
+    <firstName>Chad</firstName>
+    <lastName>Ogle</lastName>
+</person>
